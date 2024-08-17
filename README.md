@@ -1,2 +1,4 @@
 # Olá, Mundo!
- primeiro repositorio do curos git e github
+ Primeiro repositorio do curos git e github
+
+ Repositorio criado 17/08
